@@ -1,0 +1,5 @@
+https://ilovecoding.org/courses/htmlcss2/lessons/css-file
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+https://stackoverflow.com/
+https://sites.google.com/view/digitalents-academy/etusivu/front-end
+https://sites.google.com/view/digitalents-academy/etusivu/back-end
